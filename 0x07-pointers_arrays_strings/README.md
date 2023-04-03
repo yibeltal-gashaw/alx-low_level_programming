@@ -7,7 +7,7 @@ Depending on the type of the variable, the computer will reserve more or less me
 <li>char -> 1 byte</li><br>
 <li>int -> 4 bytes</li><br>
 <li>float -> 4 bytes</li><br>
-To determine the size of those types on your computer, you can use the `sizeof` operator.
+To determine the size of those types on your computer, you can use the | `sizeof`  | operator.
 The size of a type will determine how many different possible values a variable of this type can hold. For instance, a char variable could only hold 256 (2^8, 8 being the number of bits) different values: from -128 to 127. And because the size of int is 4 bytes, so 32 bits, an int variable can hold 2^32 different possible values.
 
 When we declare a variable, the computer will reserve the right amount of space for the variable in the memory (depending on its type). The space reserved for the variable is its address. And when we assign a value to this variable, the computer will store this value at its address.
