@@ -1,4 +1,5 @@
-##C - malloc, free
+<html>
+	<h1>C - malloc, free</h1>
 		
 
 		
@@ -28,7 +29,7 @@
 		
 - Write a function that returns a pointer to a newly allocated space in memory, which contains a copy of the string given as a parameter.
 		
-
+</html>
 		
 - Prototype: char *_strdup(char *str);
 		
