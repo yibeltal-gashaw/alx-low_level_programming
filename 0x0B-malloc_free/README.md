@@ -3,11 +3,11 @@
 		
 
 		
-####TASKS
+<h2>TASKS</h2>
 		
 
 		
-####[0. Float like a butterfly, sting like a bee](0-create_array.c)
+<h2>[0. Float like a butterfly, sting like a bee](0-create_array.c)</h2>
 		
 
 		
@@ -23,13 +23,13 @@
 		
 
 		
-####[1. The woman who has no imagination has no wings](1-strdup.c)
+<h2>[1. The woman who has no imagination has no wings](1-strdup.c)</h2>
 		
 
 		
 - Write a function that returns a pointer to a newly allocated space in memory, which contains a copy of the string given as a parameter.
 		
-</html>
+
 		
 - Prototype: char *_strdup(char *str);
 		
@@ -41,7 +41,7 @@
 		
 
 		
-#### [2. He who is not courageous enough to take risks will accomplish nothing in life](2-str_concat.c)
+<h2> [2. He who is not courageous enough to take risks will accomplish nothing in life](2-str_concat.c)</h2>
 		
 
 		
@@ -59,7 +59,7 @@ if NULL is passed, treat it as an empty string
 		
 
 		
-####[3. If you even dream of beating me you'd better wake up and apologize](3-alloc_grid.c)
+<h2>[3. If you even dream of beating me you'd better wake up and apologize](3-alloc_grid.c)</h2>
 		
 
 		
@@ -77,7 +77,7 @@ if NULL is passed, treat it as an empty string
 		
 
 		
-####[4. It's not bragging if you can back it up](4-free_grid.c)
+<h2>[4. It's not bragging if you can back it up](4-free_grid.c)</h2>
 		
 
 		
@@ -91,7 +91,7 @@ Note that we will compile with your alloc-grid.c file. Make sure it compiles.
 		
 
 		
-####[5. It isn't the mountains ahead to climb that wear you out; it's the pebble in your shoe](100-argstostr.c)
+<h2>[5. It isn't the mountains ahead to climb that wear you out; it's the pebble in your shoe](100-argstostr.c)</h2>
 		
 
 		
@@ -109,7 +109,7 @@ Note that we will compile with your alloc-grid.c file. Make sure it compiles.
 		
 
 		
-####[6. I will show you how great I am] (101-strtow.c)
+<h2>[6. I will show you how great I am] (101-strtow.c)</h2>
 		
 
 		
@@ -130,4 +130,4 @@ Note that we will compile with your alloc-grid.c file. Make sure it compiles.
 - Returns NULL if str == NULL or str == ""
 		
 - If your function fails, it should return NULL
-
+</html>
